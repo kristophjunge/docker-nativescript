@@ -4,7 +4,7 @@
 
 [![NativeScript](https://raw.githubusercontent.com/kristophjunge/docker-nativescript/master/nativescript.png)](https://www.nativescript.org/) [![MediaWiki](https://raw.githubusercontent.com/kristophjunge/docker-nativescript/master/android.png)](https://developer.android.com/)
 
-Dockerized NativeScript and Android SDK. 
+Dockerized NativeScript and Android SDK.
 
 Can be used for build automation and to run a docker based development environment. Based on the official Ubuntu [image](https://hub.docker.com/_/ubuntu/).
 
